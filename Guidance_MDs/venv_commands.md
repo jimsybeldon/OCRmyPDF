@@ -35,8 +35,8 @@ source .venv/scripts/activate
 
 ### Windows PowerShell (PWSH)
 
-```powershell
-.\.venv\Scripts\Activate.ps1
+.\.venv\Scripts\Activate.ps1```powershell
+
 ```
 
 > **Note for PowerShell:** If you get a security error about the script not being digitally signed, you may need to adjust the execution policy for your current terminal session by running this command first, then trying the activation command again:
